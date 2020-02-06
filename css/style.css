@@ -9176,7 +9176,7 @@ img{
 
 .main-footer .list li a{
 	display: inline-block;
-	color: #a9b1bf;
+	color: #d80e84;
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
 	-ms-transition: all 200ms ease;
@@ -9185,7 +9185,7 @@ img{
 }
 
 .main-footer .list li a:hover{
-	color:#ff8a01;
+	color:#eb1a71;
 }
 
 .main-footer .links-widget{
@@ -9225,7 +9225,7 @@ img{
 
 .main-footer .copyright-text a{
 	display: inline-block;
-	color: #6b6c80;
+	color: #df169c;
 	-webkit-transition: all 300ms ease;
 	-moz-transition: all 300ms ease;
 	-ms-transition: all 300ms ease;
@@ -9235,7 +9235,7 @@ img{
 
 .main-footer .copyright-text a:hover{
 	text-decoration: underline;
-	color: #ffffff;
+	color: #d64a4a;
 }
 
 /***
@@ -9247,13 +9247,13 @@ img{
 ***/
 
 .main-footer.style-two{
-	position: relative;
+	position: center;
 	background-color: #f3f3f8;
 }
 
 .main-footer .footer-content{
 	position: relative;
-	padding: 60px 0 90px;
+	padding: 60px 450px;
 	text-align: center;
 }
 
@@ -9304,7 +9304,7 @@ img{
 }
 
 .main-footer.style-two .copyright-text a{
-	color: #6b6c80;
+	color: #f0167b;
 }
 
 .main-footer.style-two .copyright-text a:hover{
